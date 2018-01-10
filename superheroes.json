@@ -36,6 +36,16 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name": "Hiro",
+      "age": 24,
+      "secretIdentity": "Hiro Yakamura",
+      "powers": [
+        "Time Travel",
+        "Telekinesis",
+        "Teleportation"
+      ]
     }
   ]
 }
